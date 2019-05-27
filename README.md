@@ -17,3 +17,7 @@ The needed scripts for applying the modeling and evaluation procedures
  pip install python-forecastio 
 
  pip install -U scikit-learn
+
+# CSV files
+The CSV files consider the historical data in all of the phases ( before and after cleaning , before and after integeration)
+finalmodel.csv is the integeration of the ENTSOE historical data and the Darksky historical data after beeing cleaned
