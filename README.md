@@ -13,5 +13,7 @@ The needed scripts for applying the modeling and evaluation procedures
 
 # Dependencies
  pip install entsoe-py
+ 
  pip install darkskylib
+ 
  pip install -U scikit-learn
